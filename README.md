@@ -1,7 +1,4 @@
-# C-project-for-my-university
-This is my first big project in C for university purposes.
-
-Make a program that reads texts from the user and analyzes them in
+I made a program that reads texts from the user and analyzes them in
 words, sentences and paragraphs.
 • One word consists of 1 or more consecutive Latin letters
 (lowercase and/or uppercase)
